@@ -4,7 +4,7 @@
     "homepage": "https://github.com/jhoxray/meteor-mongo-extensions",
     "author": "Jay Ho (http://superstringsoftware.com)",
     "version": "0.1.5",
-    "git": "https://github.com/chhib/meteor-mongo-extensions.git",
+    "git": "https://github.com:sacketty/meteor-mongo-extensions.git",
     "packages": {
 
     }

@@ -2,7 +2,7 @@ Package.describe({
     summary: "Straightforward implementation of mongodb aggregation framework"
 });
 
-Npm.depends({'mongodb':"1.2.14"});
+Npm.depends({'mongodb':"1.3.15"});
 
 Package.on_use(function (api, where) {
     api.add_files('lib.js', 'server');
